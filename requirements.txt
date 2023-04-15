@@ -45,7 +45,7 @@ ipyleaflet
 plotly>=5,<6
 bqplot
 
-##Add new packages for GW
+# Add new packages for GW
 matplot
 numpy
 astropy
