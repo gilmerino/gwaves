@@ -50,4 +50,3 @@ matplot
 numpy
 astropy
 gwpy
-nds2
