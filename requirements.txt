@@ -51,4 +51,17 @@ numpy
 astropy
 gwpy
 pycbc
+umpy
+pillow
+h5py
+jinja2
+mpld3
+beautifulsoup4
+cython
+lalsuite!=7.2
+lscsoft-glue
+ligo-segments
+tqdm
+gwdatafind
+python-ligo-lw
 
