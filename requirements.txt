@@ -50,5 +50,3 @@ matplotlib
 numpy
 astropy
 gwpy
-pycbc
-gwosc
